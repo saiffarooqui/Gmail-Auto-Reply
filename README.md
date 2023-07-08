@@ -18,7 +18,7 @@ A Node.js app that automatically responds to emails sent to your Gmail mailbox w
 
 1. Clone the repository
 2. Install dependencies: `npm install`
-3. Create a `.env` file in the root directory and add your Google API credentials (see `.env.example` for reference)
+3. Create a `.env` file in the root directory and add your Google API credentials
 4. Run the app: `node src/index.js` or `npm start`
 
 ## Areas for Improvement
